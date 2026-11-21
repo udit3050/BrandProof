@@ -1,0 +1,9 @@
+{
+  "name": "brandproof",
+  "version": "1.0.0",
+  "description": "BrandProof - pre-publication brand governance with verifiable findings (Team Tech Gig, Round 3)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node --test" },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
